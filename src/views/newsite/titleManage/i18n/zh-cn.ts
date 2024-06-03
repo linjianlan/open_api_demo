@@ -1,0 +1,26 @@
+export default {
+   titleManage: {
+        index: '#',
+        importtitleManageTip: '导入标题栏表',
+        titbId: ' titbId',
+        titbCreateTime: '创建时间',
+        titbUpdateTime: '修改时间',
+        titbCreateBy: '创建人',
+        titbTitle: '标题',
+        titbContent: '标签内容',
+        titbParentId: '父级id',
+        titbUrl: '跳转路径',
+        titbIcon: '图标或图片路径',
+        titbGrade: '级别 1 父级    1++...子级',
+        inputTitbIdTip: '请输入 titbId',
+        inputTitbCreateTimeTip: '请输入创建时间',
+        inputTitbUpdateTimeTip: '请输入修改时间',
+        inputTitbCreateByTip: '请输入创建人',
+        inputTitbTitleTip: '请输入标题',
+        inputTitbContentTip: '请输入标签内容',
+        inputTitbParentIdTip: '请输入父级id',
+        inputTitbUrlTip: '请输入跳转路径',
+        inputTitbIconTip: '请输入图标或图片路径',
+        inputTitbGradeTip: '请输入级别 1 父级    1++...子级',
+    }
+}

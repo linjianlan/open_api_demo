@@ -1,0 +1,26 @@
+export default {
+   titleBar: {
+        index: '#',
+        importtitleBarTip: '导入标题栏表',
+        tId: ' tId',
+        tCreateTime: '创建时间',
+        tUpdateTime: '修改时间',
+        tCreateBy: '创建人',
+        tTitle: '标题',
+        tContent: '标签内容',
+        tParentId: '父级id',
+        tUrl: '跳转路径',
+        tIcon: '图标或图片路径',
+        tGrade: '级别 1 父级    1++...子级',
+        inputTIdTip: '请输入 tId',
+        inputTCreateTimeTip: '请输入创建时间',
+        inputTUpdateTimeTip: '请输入修改时间',
+        inputTCreateByTip: '请输入创建人',
+        inputTTitleTip: '请输入标题',
+        inputTContentTip: '请输入标签内容',
+        inputTParentIdTip: '请输入父级id',
+        inputTUrlTip: '请输入跳转路径',
+        inputTIconTip: '请输入图标或图片路径',
+        inputTGradeTip: '请输入级别 1 父级    1++...子级',
+    }
+}

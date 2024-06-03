@@ -1,0 +1,26 @@
+export default {
+   titleManage: {
+        index: '#',
+        importtitleManageTip: 'import TitleManage',
+        titbId: 'titbId',
+        titbCreateTime: 'titbCreateTime',
+        titbUpdateTime: 'titbUpdateTime',
+        titbCreateBy: 'titbCreateBy',
+        titbTitle: 'titbTitle',
+        titbContent: 'titbContent',
+        titbParentId: 'titbParentId',
+        titbUrl: 'titbUrl',
+        titbIcon: 'titbIcon',
+        titbGrade: 'titbGrade',
+        inputTitbIdTip: 'input titbId',
+        inputTitbCreateTimeTip: 'input titbCreateTime',
+        inputTitbUpdateTimeTip: 'input titbUpdateTime',
+        inputTitbCreateByTip: 'input titbCreateBy',
+        inputTitbTitleTip: 'input titbTitle',
+        inputTitbContentTip: 'input titbContent',
+        inputTitbParentIdTip: 'input titbParentId',
+        inputTitbUrlTip: 'input titbUrl',
+        inputTitbIconTip: 'input titbIcon',
+        inputTitbGradeTip: 'input titbGrade',
+    }
+}

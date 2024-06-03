@@ -1,0 +1,26 @@
+export default {
+   titleBar: {
+        index: '#',
+        importtitleBarTip: 'import TitleBar',
+        tId: 'tId',
+        tCreateTime: 'tCreateTime',
+        tUpdateTime: 'tUpdateTime',
+        tCreateBy: 'tCreateBy',
+        tTitle: 'tTitle',
+        tContent: 'tContent',
+        tParentId: 'tParentId',
+        tUrl: 'tUrl',
+        tIcon: 'tIcon',
+        tGrade: 'tGrade',
+        inputTIdTip: 'input tId',
+        inputTCreateTimeTip: 'input tCreateTime',
+        inputTUpdateTimeTip: 'input tUpdateTime',
+        inputTCreateByTip: 'input tCreateBy',
+        inputTTitleTip: 'input tTitle',
+        inputTContentTip: 'input tContent',
+        inputTParentIdTip: 'input tParentId',
+        inputTUrlTip: 'input tUrl',
+        inputTIconTip: 'input tIcon',
+        inputTGradeTip: 'input tGrade',
+    }
+}
