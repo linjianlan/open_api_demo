@@ -31,8 +31,6 @@
 
 [产品白皮书 paper.pig4cloud.com](https://paper.pig4cloud.com)
 
-## 快速开始
-
 ### 核心依赖
 
 | 依赖                        | 版本       |
@@ -122,8 +120,7 @@ pig 开源软件遵循 [Apache 2.0 协议](https://www.apache.org/licenses/LICEN
    3. 其他开发工具，请参考 <a href="https://github.com/spring-io/spring-javaformat" target="_blank">
    spring-javaformat</a>
    说明，或`提交代码前`在项目根目录运行下列命令（需要开发者电脑支持`mvn`命令）进行代码格式化
-   `    mvn spring-javaformat:apply
-   `
+   `   mvn spring-javaformat:apply`
    </details>
 
 2. 欢迎提交 [issue](https://gitee.com/log4j/pig/issues)，请写清楚遇到问题的原因、开发环境、复显步骤。
