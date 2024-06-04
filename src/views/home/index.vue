@@ -555,20 +555,30 @@ function init() {
 	var style = {
 		color: 'red', //边框颜色
 		weight: 3, //边框粗细
-		opacity: 0.4, //透明度
+		opacity: 0.5, //透明度
 		fillColor: 'transparent', //区域填充颜色
 		fillOpacity: 0, //区域填充颜色的透明
 	};
 
 	let markerlist = [
-		[25.245843, 118.918081],
-		[25.216913, 118.155546],
-		[25.286913, 118.55464],
-		[25.276913, 118.85623],
-		[25.256913, 118.54565],
-		[25.26913, 118.55765],
-		[25.236913, 118.99565],
-		[25.296913, 118.55565],
+		[26.784299, 118.147478],
+		[27.125258, 118.120545],
+		[26.006326, 119.329175],
+		[26.078393, 119.205806],
+		[26.742027, 119.52502],
+		[26.981537, 119.351802],
+		[26.283944, 117.318025],
+		[26.334149, 116.86998],
+		[24.985568, 117.110618],
+		[25.346729, 117.047612],
+		[25.220128, 118.74178],
+		[25.517431, 118.909796],
+		[24.826828, 118.629769],
+		[25.010947, 118.363742],
+		[24.807765, 118.188725],
+		[24.578786, 118.13972],
+		[24.062038, 117.574141],
+		[24.372743, 117.526325],
 	];
 	// let marker = L.marker([26.047886, 119.200519]).addTo(map);
 	// marker.bindPopup('我是popup').openPopup(); // openPopup 是自动打开气泡
@@ -584,7 +594,7 @@ function init() {
 	// L.control.layers(baseLayers, {}).addTo(map).setPosition('topleft');
 	//缩放按钮
 	// L.control.zoom().addTo(map).setPosition('topleft');
-	L.circle([26.047886, 119.200519], { radius: 100, color: '#ff0000', weight: 2, fill: true, fillColor: '#00ff00', fillOpacity: 1 }).addTo(maps);
+	L.circle([26.047886, 119.200519], { radius: 100, color: '#ff0000', weight: 0, fill: false, fillColor: '#00ff00', fillOpacity: 1 }).addTo(maps);
 	L.geoJson(
 		{
 			type: 'FeatureCollection',
