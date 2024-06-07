@@ -9,7 +9,7 @@ import other from '/@/utils/other';
 import ElementPlus from 'element-plus';
 import '/@/theme/tailwind.css';
 import 'element-plus/dist/index.css';
-import '/@/theme/index.scss';
+import '/@/theme/index.scss';  
 
 //webgis leaflet样式全局引入
 import 'leaflet/dist/leaflet.css';
